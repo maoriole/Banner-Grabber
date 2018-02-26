@@ -1,8 +1,5 @@
 #!/usr/bin/python
 import socket
-import sys
-import os
-
 
 def grab_banner(ip_address, port):
     try:
